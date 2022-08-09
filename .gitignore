@@ -1,2 +1,11 @@
 # Project exclude paths
 /target/
+/.idea/.gitignore
+/output/2022-08-07--15/.part-0-0.inprogress.6d0c21e8-9095-47f2-bd9c-35b49e5bb11c
+/output/2022-08-07--15/.part-1-0.inprogress.35881bfd-aa85-4b54-a2aa-a8df8691101f
+/output/2022-08-07--15/.part-2-0.inprogress.a3bf1094-76e6-40ab-977a-8c90dc587a0d
+/output/2022-08-07--15/.part-3-0.inprogress.6b8c3c37-a92e-4032-b7fe-f8931713834a
+/.idea/compiler.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/uiDesigner.xml
